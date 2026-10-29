@@ -4,7 +4,7 @@ import { useState } from 'react'
 const PRICE = 299          // prix du pack (dh)
 const SHIPPING = 30        // frais de livraison (dh)
 const FREE_FROM = 3        // livraison gratuite à partir de X packs
-const WHATSAPP = '+91 80891 18428' // ton numéro WhatsApp (format international, sans +)
+const WHATSAPP = '918089118428' // ton numéro WhatsApp (format international, sans +)
 // --------------------
 
 const ITEMS = [
