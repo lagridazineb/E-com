@@ -29,7 +29,7 @@ export default function App() {
 
       <main>
       <section className="video-hero">
-        <video src="/vid.mp4" autoPlay muted loop playsInline preload="auto" />
+        <video src="/img/vid.mp4" autoPlay muted loop playsInline preload="auto" />
      </section>
         <section className="hero">
           <div className="hero-text">
